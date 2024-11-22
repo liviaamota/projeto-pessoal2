@@ -1,4 +1,3 @@
-
 let option = ''
  
 const handball = {}
@@ -19,20 +18,13 @@ const handball = {}
         handball.positions = alert('Existem cinco posições no handebool,quais delas são central,ponta,pivÔ,armação e goleiro')
         handball.rules = alert('Tempo de posse: não há limite de tempo, mas ataques passivos são penalizados. Substituições: as substituições de jogadores são ilimitadas .')
         handball.players = alert ('A quantidade de jogadores são sete,contando com o goleiro.')
-             
-           
+          
             break
         case '2': 
         perguntas() 
-
-        
+      
         case'3': 
         alert('Saindo ...')
         break
     }
 } while (option !== '3')
-
-
-  
-
-    
