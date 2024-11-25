@@ -3,7 +3,7 @@ let option = ''
 const handball = {}
  do {
     option = prompt(`
-    1 - handebool
+    1 - handebool - informações
     2 - jogar o quiz
     3 -  sair 
 
